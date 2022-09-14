@@ -32,3 +32,17 @@ nav .nav-right-section a {
     color: #000000;
     margin-right: 12px;
 }
+
+nav .nav-right-section .menu-icon {
+    background-image: url('../assets/icon_menu_google.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 24px;
+    height: 24px;
+}
+
+nav .nav-right-section img {
+    border-radius: 50%;
+    margin-left: 10px;
+}
